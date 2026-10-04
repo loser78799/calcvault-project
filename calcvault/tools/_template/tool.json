@@ -1,0 +1,8 @@
+{
+  "name": "My New Tool",
+  "description": "One short sentence that explains what this tool does.",
+  "icon": "🧮",
+  "category": "Math & Calculators",
+  "keywords": "words people might search for, separated by commas",
+  "order": 50
+}
