@@ -1,0 +1,8 @@
+{
+  "name": "Percentage Calculator",
+  "description": "Find a percentage of a number, what percent one number is of another, and percentage change.",
+  "icon": "%",
+  "category": "Math & Calculators",
+  "keywords": "percent, percentage, increase, decrease, discount, ratio",
+  "order": 1
+}
